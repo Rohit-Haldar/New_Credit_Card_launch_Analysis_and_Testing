@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/08769a72-12d9-435b-b5f2-f6d03d66d164)
+
 # New Credit Card launch Analysis and Testing
 This project aims to identify the target consumer group for a new credit card launch by analyzing key demographic and financial factors, including age group, income level, occupation type, credit limit, and credit score. By leveraging these variables, the goal is to determine the ideal segment of consumers who are most likely to benefit from and adopt the new credit card product.
 
