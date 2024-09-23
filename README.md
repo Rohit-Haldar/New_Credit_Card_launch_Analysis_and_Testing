@@ -4,8 +4,7 @@ This project aims to identify the target consumer group for a new credit card la
 ### Data Source 
 https://codebasics.io/courses/math-and-statistics-for-data-science
 
-### Methodology 
-The project is divided into Two Phases 
+### The project is divided into Two Phases 
 
 #### Phase 1 : Focuses on data cleaning and analysing to find out the target consumer group 
 
