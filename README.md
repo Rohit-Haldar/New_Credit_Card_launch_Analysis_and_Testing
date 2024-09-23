@@ -25,6 +25,7 @@ https://codebasics.io/courses/math-and-statistics-for-data-science
 8. ```Outliers in Transaction Amount```: I addressed outliers in the transaction amount column by applying the IQR method and replaced extreme values with the median transaction amount, grouped by product category.
 
 #### Findings 
+ ![Screenshot 2024-09-23 162304](https://github.com/user-attachments/assets/774f1a70-78b5-4e9d-a56d-f03a98ea2bc5)
 #### Phase 2 : After finalizing the Target Comsumer group , its time to work further on Credit card Launch . Phase 2 was further divided into 4 steps : 
 
 Step 1: ```Campaign Planning```
